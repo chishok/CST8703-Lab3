@@ -41,17 +41,17 @@ int main(void)
 
     // Create the task sets from the lab description
 
-    AcTask ex2_tasks[] = {};
-    const size_t ex2_num_tasks = ARRAY_SIZE(ex2_tasks);
+    // AcTask ex2_tasks[] = {};
+    // const size_t ex2_num_tasks = ARRAY_SIZE(ex2_tasks);
 
-    AcTask ex3_tasks[] = {};
-    const size_t ex3_num_tasks = ARRAY_SIZE(ex3_tasks);
+    // AcTask ex3_tasks[] = {};
+    // const size_t ex3_num_tasks = ARRAY_SIZE(ex3_tasks);
 
-    AcTask ex4_tasks[] = {};
-    const size_t ex4_num_tasks = ARRAY_SIZE(ex4_tasks);
+    // AcTask ex4_tasks[] = {};
+    // const size_t ex4_num_tasks = ARRAY_SIZE(ex4_tasks);
 
-    AcTask ex5_tasks[] = {};
-    const size_t ex5_num_tasks = ARRAY_SIZE(ex5_tasks);
+    // AcTask ex5_tasks[] = {};
+    // const size_t ex5_num_tasks = ARRAY_SIZE(ex5_tasks);
 
     ac_feasibility_analysis("ex0", ex0_tasks, ex0_num_tasks);
     ac_feasibility_analysis("ex1", ex1_tasks, ex1_num_tasks);
@@ -61,7 +61,7 @@ int main(void)
     // ac_feasibility_analysis("ex5", ex5_tasks, ex5_num_tasks);
 
     /*
-     * STUDENT WORK SECTION BEGIN
+     * STUDENT WORK SECTION END
      * ==========================
      */
 
